@@ -1,9 +1,15 @@
-# 📈 EDA — USA Leading Causes of Death (NCHS / CDC data)
+# 📈 EDA PROJECT 5:
+#  Unveiling Mortality Trends: A Data-Driven Exploration of Leading Causes of Death in the United States (1999–2017)
 
 ## 📌 Project Overview
-This repository contains an Exploratory Data Analysis (EDA) of U.S. mortality data with a focus on the leading causes of death. The analysis examines trends over time, age-adjusted death rates, and geographic patterns across states, and highlights how specific causes contribute to overall mortality. The work aims to surface data-driven insights that can inform public health discussion, policy analysis, and further predictive modeling.
+This project involves my comprehensive exploratory data analysis (EDA) on the NCHS Leading Causes of Death dataset for the United States. I obtained the dataset from the National Center for Health Statistics (NCHS) via data.gov, which provides mortality data by cause of death, state, and year for the period 1999-2017.
 
-This project is part of my public data-science portfolio and showcases reproducible EDA practices, clear visual storytelling, and careful interpretation of population-level health data.
+My primary objective in this analysis is to gain insights into the patterns and trends of leading causes of death in the United States, including:
+- Identifying the most prevalent causes of death.
+- Examining how death counts and age-adjusted death rates vary across different states and over time.
+- Understanding the relationship between raw death counts and age-adjusted death rates.
+- Exploring changes in the ranking of leading causes over the years.
+Through this EDA, I aim to uncover key findings that can contribute to a better understanding of mortality in the US and potentially inform public health strategies. Furthermore, this project is part of my public data-science portfolio and showcases reproducible EDA practices, clear visual storytelling, and careful interpretation of population-level health data.
 
 ---
 
