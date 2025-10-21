@@ -89,7 +89,7 @@ Place the following image files into an `images/` folder at the repository root 
 
 | Trend: Total Deaths for Top 5 Causes | Trend: Total Deaths in the U.S. Over the Years |
 |--------------------------------------|------------------------------------------------|
-| ![](images/Trend_of_TotalDeaths_for_Top5_ Leading_Causes.png) | ![](images/Trend_of_TotalDeaths_in_the_US_OverTheYears.png) |
+| ![](images/Trend_of_TotalDeaths_for_Top5_Leading_Causes.png) | ![](images/Trend_of_TotalDeaths_in_the_US_OverTheYears.png) |
 
 > **Important:** ensure the filenames in `images/` exactly match the names above (including spaces/casing) or rename files to simplified names and update the README image links accordingly.
 
