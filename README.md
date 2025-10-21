@@ -55,11 +55,7 @@ This analysis was guided by 12 questions designed to uncover timely and actionab
 ## 📊 Key Findings and Implications
 > Concise, data-driven takeaways based on the visualizations and analyses:
 
-- **Overall trend:** Total deaths in the U.S. show notable year-to-year variation; long-term trends and short-term shocks (e.g., epidemic years) both appear in the series. See `Trend_of_TotalDeaths_in_the_US_OverTheYears.png`.  
-- **Cause composition:** The top specific causes explain a large share of overall mortality, but the sum of specific causes does not always equal the all-cause totals due to classification and grouping differences (`AllCauses_death_vs._Sum_of_Specific_Causes_deaths.png`).  
-- **Age-adjusted insights:** Age-adjusted death rates reveal different priorities than raw counts — some causes move up the priority list when adjusting for population age structure (`Avg_Age-adjusted _DeathRate_for_Top10_COD.png`).  
-- **Heart disease spotlight:** Heart disease remains a leading contributor in total deaths, with specific states showing particularly high totals (`Top10_States_by_TotalDeaths_from_HeartDisease.png`) and a distinct time trend in age-adjusted rates (`Trend_of_Age-adjusted_DeathRate_for_HeartDisease.png`).  
-- **Top causes over time:** The top 5 causes exhibit both shared and distinct trajectories; some have declining age-adjusted rates while others plateau or rise (`Trend_of_TotalDeaths_for_Top5_ Leading_Causes.png`).  
+ 
 
 *(If you’d like, I can expand each bullet into a short paragraph with exact numbers drawn from the notebook.)*
 
