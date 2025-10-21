@@ -52,7 +52,7 @@ This analysis was guided by 12 questions designed to uncover timely and actionab
 
 ---
 
-## 📊 Key Findings (summary)
+## 📊 Key Findings and Implications
 > Concise, data-driven takeaways based on the visualizations and analyses:
 
 - **Overall trend:** Total deaths in the U.S. show notable year-to-year variation; long-term trends and short-term shocks (e.g., epidemic years) both appear in the series. See `Trend_of_TotalDeaths_in_the_US_OverTheYears.png`.  
