@@ -53,9 +53,9 @@ This analysis was guided by 12 questions designed to uncover timely and actionab
 ---
 
 ## 📊 Key Findings and Implications
-> ## Based on our comprehensive exploratory data analysis of the NCHS Leading Causes of Death dataset, here are some key findings and their potential implications:
+> **Based on our comprehensive exploratory data analysis of the NCHS Leading Causes of Death dataset, here are some key findings and their potential implications:**
 
-Key Findings:
+**Key Findings:**
 
 - **Dominance of Heart Disease and Cancer**: Consistent with national trends, Heart disease and Cancer are the leading causes of death among the specific causes listed. In 2017, Heart disease accounted for approximately 61.0% and Cancer accounted for approximately 56.4% of total deaths from these specific causes (as shown in the answer to Question 15). This highlights the ongoing public health challenge posed by these diseases.
 - **Increase in Total Deaths Over Time**: The overall trend of total deaths in the United States shows a general increase from 1999 to 2017 (as shown in the answer to Question 5). This could be attributed to various factors, including population growth, an aging population, or changes in mortality rates for specific causes.
@@ -66,11 +66,11 @@ Key Findings:
 
 **Implications**:
 
-The persistent high prevalence of Heart disease and Cancer necessitates continued focus on prevention, early detection, and treatment strategies for these diseases.
-The increasing trend in total deaths highlights the need for ongoing monitoring of mortality rates and further investigation into the contributing factors.
-The significant variations in death rates across states suggest that public health initiatives may need to be tailored to address state-specific challenges and risk factors.
-Identifying states with consistently higher or lower rates for certain causes can help prioritize public health efforts and facilitate the sharing of best practices.
-Using age-adjusted death rates in public health reporting and analysis is crucial for accurate comparisons and informed decision-making, avoiding misleading conclusions based solely on raw death counts.
+- The persistent high prevalence of Heart disease and Cancer necessitates continued focus on prevention, early detection, and treatment strategies for these diseases.
+- The increasing trend in total deaths highlights the need for ongoing monitoring of mortality rates and further investigation into the contributing factors.
+- The significant variations in death rates across states suggest that public health initiatives may need to be tailored to address state-specific challenges and risk factors.
+- Identifying states with consistently higher or lower rates for certain causes can help prioritize public health efforts and facilitate the sharing of best practices.
+- Using age-adjusted death rates in public health reporting and analysis is crucial for accurate comparisons and informed decision-making, avoiding misleading conclusions based solely on raw death counts.
  
 
 
