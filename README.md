@@ -1,2 +1,125 @@
-# eda5-USA-leading-causes-of-death
-Exploratory Data Analysis (EDA) of the leading causes of death in the United States (1999–2017), revealing national and state-level mortality trends and insights using NCHS data.
+# 📈 EDA — USA Leading Causes of Death (NCHS / CDC data)
+
+## 📌 Project Overview
+This repository contains an Exploratory Data Analysis (EDA) of U.S. mortality data with a focus on the leading causes of death. The analysis examines trends over time, age-adjusted death rates, and geographic patterns across states, and highlights how specific causes contribute to overall mortality. The work aims to surface data-driven insights that can inform public health discussion, policy analysis, and further predictive modeling.
+
+This project is part of my public data-science portfolio and showcases reproducible EDA practices, clear visual storytelling, and careful interpretation of population-level health data.
+
+---
+
+## 🧰 Tools & Libraries
+- **Python** (Jupyter Notebook)  
+- **pandas**, **numpy** for data wrangling  
+- **matplotlib**, **seaborn**, **plotly** for visualization  
+- **statsmodels / scipy** for basic statistical summaries  
+- Git & GitHub for version control and project hosting
+
+---
+
+## 🔍 Key Analysis Steps
+1. Data ingestion and validation (NCHS / CDC leading causes dataset).  
+2. Data cleaning: handle missing values, standardize cause names, parse dates and states.  
+3. Calculation of annual totals and age-adjusted death rates.  
+4. Ranking causes by total deaths and age-adjusted rates.  
+5. State-level aggregation and comparison for major causes (e.g., heart disease).  
+6. Trend analysis over time for top causes and for total deaths.  
+7. Visual diagnostics and storytelling — bar charts, line trends, heatmaps.  
+8. Short statistical summaries and next-step recommendations for modeling.
+
+---
+
+## ❓ Twelve Key Questions Explored
+This analysis was guided by 12 questions designed to uncover timely and actionable patterns in U.S. mortality:
+
+1. **How have total deaths in the U.S. changed over time (year-to-year trend)?**  
+2. **How does the total number of deaths from all causes compare to the sum of deaths from the specific leading causes?**  
+3. **Which causes are the top 10 contributors to age-adjusted death rates nationally?**  
+4. **Which states have the highest total deaths from heart disease?**  
+5. **How has the age-adjusted death rate for heart disease evolved over recent decades?**  
+6. **What are the time trends of total deaths for the top 5 leading causes?**  
+7. **How does the ranking of leading causes change when using age-adjusted rates versus raw counts?**  
+8. **Are there visible inflection points (years) where trends accelerate or decelerate for major causes?**  
+9. **Which age groups contribute most to the total and age-adjusted death rates for top causes?**  
+10. **How do geographic patterns (state-level) differ across major causes?**  
+11. **What percentage of all-cause mortality is explained by the top 5 or top 10 causes?**  
+12. **Which causes show consistent improvement (declining age-adjusted rates) and which require renewed public-health focus?**
+
+---
+
+## 📊 Key Findings (summary)
+> Concise, data-driven takeaways based on the visualizations and analyses:
+
+- **Overall trend:** Total deaths in the U.S. show notable year-to-year variation; long-term trends and short-term shocks (e.g., epidemic years) both appear in the series. See `Trend_of_TotalDeaths_in_the_US_OverTheYears.png`.  
+- **Cause composition:** The top specific causes explain a large share of overall mortality, but the sum of specific causes does not always equal the all-cause totals due to classification and grouping differences (`AllCauses_death_vs._Sum_of_Specific_Causes_deaths.png`).  
+- **Age-adjusted insights:** Age-adjusted death rates reveal different priorities than raw counts — some causes move up the priority list when adjusting for population age structure (`Avg_Age-adjusted _DeathRate_for_Top10_COD.png`).  
+- **Heart disease spotlight:** Heart disease remains a leading contributor in total deaths, with specific states showing particularly high totals (`Top10_States_by_TotalDeaths_from_HeartDisease.png`) and a distinct time trend in age-adjusted rates (`Trend_of_Age-adjusted_DeathRate_for_HeartDisease.png`).  
+- **Top causes over time:** The top 5 causes exhibit both shared and distinct trajectories; some have declining age-adjusted rates while others plateau or rise (`Trend_of_TotalDeaths_for_Top5_ Leading_Causes.png`).  
+
+*(If you’d like, I can expand each bullet into a short paragraph with exact numbers drawn from the notebook.)*
+
+---
+
+## 📸 Visuals (displayed in README)
+Place the following image files into an `images/` folder at the repository root so the README will render them:
+
+| Total Deaths vs Sum of Specific Causes | Avg Age-adjusted Death Rate (Top10) |
+|----------------------------------------|--------------------------------------|
+| ![](images/AllCauses_death_vs._Sum_of_Specific_Causes_deaths.png) | ![](images/Avg_Age-adjusted_DeathRate_for_Top10_COD.png) |
+
+| Top 10 States by Heart Disease Deaths | Trend: Age-adjusted Death Rate (Heart Disease) |
+|---------------------------------------|------------------------------------------------|
+| ![](images/Top10_States_by_TotalDeaths_from_HeartDisease.png) | ![](images/Trend_of_Age-adjusted_DeathRate_for_HeartDisease.png) |
+
+| Trend: Total Deaths for Top 5 Causes | Trend: Total Deaths in the U.S. Over the Years |
+|--------------------------------------|------------------------------------------------|
+| ![](images/Trend_of_TotalDeaths_for_Top5_ Leading_Causes.png) | ![](images/Trend_of_TotalDeaths_in_the_US_OverTheYears.png) |
+
+> **Important:** ensure the filenames in `images/` exactly match the names above (including spaces/casing) or rename files to simplified names and update the README image links accordingly.
+
+---
+
+## 📁 Files in This Repository
+- `EDA_Project_5_US_Mortality_Trends.ipynb` — Jupyter notebook with full data pipeline, EDA code, tables, and figures  
+- `images/` — plot PNGs used in the README and analysis  
+- `data/` — (optional, small aggregated CSVs or snapshots). The raw NCHS/CDC data are not included here due to size and licensing — see Dataset Access below.  
+- `README.md` — this file
+
+---
+
+## 📂 Dataset Access & Sources
+Primary data sources and references used in this analysis (add or replace with the exact source links you used in the notebook):  
+- NCHS / CDC — Leading Causes of Death datasets (publicly available via CDC WONDER or NCHS data portals)  
+- [CDC WONDER](https://wonder.cdc.gov/) (for cause-specific and demographic mortality data)  
+- (If applicable) Kaggle or other aggregated CSVs used for prototyping
+
+> Note: always cite the precise dataset version and extraction date in the notebook (`Data source:` cell) to ensure reproducibility.
+
+---
+
+## 🚀 Next Steps / Recommendations
+1. **Statistical testing:** test year-to-year changes and trend breakpoints using time series tests (e.g., Mann-Kendall, segmented regression).  
+2. **Standardization:** standardize filenames and column names; generate a small `data/README` documenting preprocessing steps.  
+3. **Modeling:** build short-term forecasting models for top causes (e.g., ARIMA or Prophet), and consider cause-specific modeling for policy simulation.  
+4. **Geospatial analysis:** map state-level rates to identify clusters and hotspots.  
+5. **Policy brief:** convert key visuals into a 1-page brief for public health stakeholders summarizing priority causes and states.
+
+---
+
+## ✍️ Author
+**Dr. Adebayo Fashina** — PhD (Physics) transitioning into Data Science & Public Health Analytics  
+📍 Toronto, Canada | [GitHub](https://github.com/dradebayotech) | [LinkedIn](https://www.linkedin.com/in/your-link-here)
+
+---
+
+## 📌 How to get this README visuals to render
+1. In the repo root create an `images/` folder. (Web: *Add file → Create new file → images/.gitkeep*)  
+2. Upload the six plot PNGs into `images/`. Consider renaming files to remove spaces (e.g., `allcauses_vs_sum.png`) and update the README links accordingly.  
+3. Commit `EDA_Project_5_US_Mortality_Trends.ipynb`, `images/`, and `README.md`.
+
+---
+
+If you want I can now:
+- (A) produce a copy-ready `README.md` file (exact markdown) with simplified image filenames (no spaces) and provide the shell commands/git steps to upload everything; **or**  
+- (B) extract exact figures and write more quantitative findings from your notebook (I’ll need the notebook re-opened or you to paste key numeric outputs/summary tables).
+
+Which would you like me to do next?
