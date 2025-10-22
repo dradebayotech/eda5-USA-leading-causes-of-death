@@ -43,12 +43,7 @@ This analysis was guided by 12 questions designed to uncover timely and actionab
 4. **What is the average age-adjusted death rate for each cause of death?**  
 5. **What is the trend of total deaths in the United States over the years?**  
 6. **How does the number of deaths for a specific cause vary by state?**  
-7. **How has the age-adjusted death rate for a specific cause changed over time?**  
-8. **Are there visible inflection points (years) where trends accelerate or decelerate for major causes?**  
-9. **Which age groups contribute most to the total and age-adjusted death rates for top causes?**  
-10. **How do geographic patterns (state-level) differ across major causes?**  
-11. **What percentage of all-cause mortality is explained by the top 5 or top 10 causes?**  
-12. **Which causes show consistent improvement (declining age-adjusted rates) and which require renewed public-health focus?**
+7. **How has the age-adjusted death rate for a specific cause changed over time?** 
 
 ---
 
