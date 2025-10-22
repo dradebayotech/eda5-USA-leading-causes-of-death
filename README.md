@@ -2,7 +2,7 @@
 #  Unveiling Mortality Trends: A Data-Driven Exploration of Leading Causes of Death in the United States (1999–2017)
 
 ## 📌 Project Overview
-This project involves my comprehensive exploratory data analysis (EDA) on the NCHS Leading Causes of Death dataset for the United States. I obtained the dataset from the National Center for Health Statistics (NCHS) via data.gov, which provides mortality data by cause of death, state, and year for the period 1999-2017.
+This project involves my comprehensive exploratory data analysis (EDA) on the NCHS Leading Causes of Death dataset for the United States. I obtained the dataset from the National Center for Health Statistics (NCHS) via [DATA.GOV](https://catalog.data.gov/dataset/nchs-leading-causes-of-death-united-states), which provides mortality data by cause of death, state, and year for the period 1999-2017.
 
 My primary objective in this analysis is to gain insights into the patterns and trends of leading causes of death in the United States, including:
 - Identifying the most prevalent causes of death.
