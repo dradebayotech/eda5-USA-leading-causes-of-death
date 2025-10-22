@@ -107,8 +107,6 @@ Primary data sources and references used in this analysis (add or replace with t
 - [CDC WONDER](https://wonder.cdc.gov/) (for cause-specific and demographic mortality data)  
 - (If applicable) Kaggle or other aggregated CSVs used for prototyping
 
-> Note: always cite the precise dataset version and extraction date in the notebook (`Data source:` cell) to ensure reproducibility.
-
 ---
 
 ## 🚀 Next Steps / Recommendations
@@ -126,14 +124,3 @@ Primary data sources and references used in this analysis (add or replace with t
 
 ---
 
- 
-2. Upload the six plot PNGs into `images/`. Consider renaming files to remove spaces (e.g., `allcauses_vs_sum.png`) and update the README links accordingly.  
-3. Commit `EDA_Project_5_US_Mortality_Trends.ipynb`, `images/`, and `README.md`.
-
----
-
-If you want I can now:
-- (A) produce a copy-ready `README.md` file (exact markdown) with simplified image filenames (no spaces) and provide the shell commands/git steps to upload everything; **or**  
-- (B) extract exact figures and write more quantitative findings from your notebook (I’ll need the notebook re-opened or you to paste key numeric outputs/summary tables).
-
-Which would you like me to do next?
