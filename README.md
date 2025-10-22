@@ -37,13 +37,13 @@ Through this EDA, I aim to uncover key findings that can contribute to a better 
 ## ❓ Twelve Key Questions Explored
 This analysis was guided by 12 questions designed to uncover timely and actionable patterns in U.S. mortality:
 
-1. **How have total deaths in the U.S. changed over time (year-to-year trend)?**  
-2. **How does the total number of deaths from all causes compare to the sum of deaths from the specific leading causes?**  
-3. **Which causes are the top 10 contributors to age-adjusted death rates nationally?**  
-4. **Which states have the highest total deaths from heart disease?**  
-5. **How has the age-adjusted death rate for heart disease evolved over recent decades?**  
-6. **What are the time trends of total deaths for the top 5 leading causes?**  
-7. **How does the ranking of leading causes change when using age-adjusted rates versus raw counts?**  
+1. **Which cause of death has the highest total number of deaths across all years and states?****  
+2. **Which cause of death has the lowest total number of deaths across all years and states?**  
+3. **What is the distribution of deaths across different states for a given year?**  
+4. **What is the average age-adjusted death rate for each cause of death?**  
+5. **What is the trend of total deaths in the United States over the years?**  
+6. **How does the number of deaths for a specific cause vary by state?**  
+7. ** How has the age-adjusted death rate for a specific cause changed over time?**  
 8. **Are there visible inflection points (years) where trends accelerate or decelerate for major causes?**  
 9. **Which age groups contribute most to the total and age-adjusted death rates for top causes?**  
 10. **How do geographic patterns (state-level) differ across major causes?**  
