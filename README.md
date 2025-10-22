@@ -91,7 +91,7 @@ Place the following image files into an `images/` folder at the repository root 
 ## 📁 Files in This Repository
 - `EDA_Project_5_US_Mortality_Trends.ipynb` — Jupyter notebook with full data pipeline, EDA code, tables, and figures  
 - `images/` — plot PNGs used in the README and analysis  
-- `data/` — (optional, small aggregated CSVs or snapshots). The raw NCHS/CDC data are not included here due to size and licensing — see Dataset Access below.  
+- `data/` — The raw NCHS data are included here. The link is also available below (See Dataset Access & Sources).  
 - `README.md` — this file
 
 ---
