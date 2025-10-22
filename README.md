@@ -126,8 +126,7 @@ Primary data sources and references used in this analysis (add or replace with t
 
 ---
 
-## 📌 How to get this README visuals to render
-1. In the repo root create an `images/` folder. (Web: *Add file → Create new file → images/.gitkeep*)  
+ 
 2. Upload the six plot PNGs into `images/`. Consider renaming files to remove spaces (e.g., `allcauses_vs_sum.png`) and update the README links accordingly.  
 3. Commit `EDA_Project_5_US_Mortality_Trends.ipynb`, `images/`, and `README.md`.
 
