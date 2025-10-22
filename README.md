@@ -104,7 +104,7 @@ Place the following image files into an `images/` folder at the repository root 
 ## 📂 Dataset Access & Sources
 Primary data sources and references used in this analysis (add or replace with the exact source links you used in the notebook):  
 - NCHS / CDC — Leading Causes of Death datasets (publicly available via CDC WONDER or NCHS data portals)  
-- [CDC WONDER](https://wonder.cdc.gov/) (for cause-specific and demographic mortality data)  
+- [DATA.GOV](https://catalog.data.gov/dataset/nchs-leading-causes-of-death-united-states) (for cause-specific and demographic mortality data)  
 - (If applicable) Kaggle or other aggregated CSVs used for prototyping
 
 ---
