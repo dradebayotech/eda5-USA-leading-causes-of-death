@@ -60,7 +60,6 @@ This analysis was guided by 12 questions designed to uncover timely and actionab
 ---
 
 ## 📸 Visuals (displayed in README)
-Place the following image files into an `images/` folder at the repository root so the README will render them:
 
 | Total Deaths vs Sum of Specific Causes | Avg Age-adjusted Death Rate (Top10) |
 |----------------------------------------|--------------------------------------|
