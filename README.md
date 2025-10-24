@@ -57,7 +57,7 @@ This analysis was guided by 12 questions designed to uncover timely and actionab
  
 ---
 
-## 📸 Visuals (displayed in README)
+## 📸 Visuals
 
 | Total Deaths vs Sum of Specific Causes | Avg Age-adjusted Death Rate (Top10) |
 |----------------------------------------|--------------------------------------|
