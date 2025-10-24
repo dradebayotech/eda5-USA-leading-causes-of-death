@@ -55,8 +55,6 @@ This analysis was guided by 12 questions designed to uncover timely and actionab
 - Identifying states with consistently higher or lower rates for certain causes can help prioritize public health efforts and facilitate the sharing of best practices.
 - Using age-adjusted death rates in public health reporting and analysis is crucial for accurate comparisons and informed decision-making, avoiding misleading conclusions based solely on raw death counts.
  
-
-
 ---
 
 ## 📸 Visuals (displayed in README)
