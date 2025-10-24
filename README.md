@@ -27,10 +27,6 @@ Through this EDA, I aim to uncover key findings that can contribute to a better 
 2. Data cleaning: handle missing values, standardize cause names, parse dates and states.  
 3. Calculation of annual totals and age-adjusted death rates.  
 4. Ranking causes by total deaths and age-adjusted rates.  
-5. State-level aggregation and comparison for major causes (e.g., heart disease).  
-6. Trend analysis over time for top causes and for total deaths.  
-7. Visual diagnostics and storytelling — bar charts, line trends, heatmaps.  
-8. Short statistical summaries and next-step recommendations for modeling.
 
 ---
 
