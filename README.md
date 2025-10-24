@@ -22,12 +22,6 @@ Through this EDA, I aim to uncover key findings that can contribute to a better 
 
 ---
 
-## 🔍 Key Analysis Steps
-1. Data ingestion and validation (NCHS / CDC leading causes dataset).  
-2. Data cleaning: handle missing values, standardize cause names, parse dates and states.  
-3. Calculation of annual totals and age-adjusted death rates.  
-4. Ranking causes by total deaths and age-adjusted rates.  
-
 ---
 
 ## ❓ Some of the Key Questions Explored
