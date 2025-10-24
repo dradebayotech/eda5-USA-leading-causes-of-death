@@ -96,7 +96,7 @@ Primary data sources and references used in this analysis (add or replace with t
 ---
 
 ## ✍️ Author
-**Dr. Adebayo Fashina** — PhD (Physics) transitioning into Data Science & Public Health Analytics  
+**Dr. Adebayo Fashina**
 📍 Toronto, Canada | [GitHub](https://github.com/dradebayotech) | [LinkedIn](https://www.linkedin.com/in/your-link-here)
 
 ---
