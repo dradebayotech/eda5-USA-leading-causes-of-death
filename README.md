@@ -22,8 +22,6 @@ Through this EDA, I aim to uncover key findings that can contribute to a better 
 
 ---
 
----
-
 ## ❓ Some of the Key Questions Explored
 This analysis was guided by 12 questions designed to uncover timely and actionable patterns in U.S. mortality. Here are seven of those:
 
