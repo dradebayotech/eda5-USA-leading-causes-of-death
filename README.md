@@ -102,12 +102,11 @@ Primary data sources and references used in this analysis (add or replace with t
 
 ---
 
-## 🚀 Next Steps / Recommendations
+## 🚀 Future Works
 1. **Statistical testing:** test year-to-year changes and trend breakpoints using time series tests (e.g., Mann-Kendall, segmented regression).  
-2. **Standardization:** standardize filenames and column names; generate a small `data/README` documenting preprocessing steps.  
-3. **Modeling:** build short-term forecasting models for top causes (e.g., ARIMA or Prophet), and consider cause-specific modeling for policy simulation.  
-4. **Geospatial analysis:** map state-level rates to identify clusters and hotspots.  
-5. **Policy brief:** convert key visuals into a 1-page brief for public health stakeholders summarizing priority causes and states.
+2. **Modeling:** build short-term forecasting models for top causes (e.g., ARIMA or Prophet), and consider cause-specific modeling for policy simulation.  
+3. **Geospatial analysis:** map state-level rates to identify clusters and hotspots.  
+4. **Policy brief:** convert key visuals into a 1-page brief for public health stakeholders summarizing priority causes and states.
 
 ---
 
