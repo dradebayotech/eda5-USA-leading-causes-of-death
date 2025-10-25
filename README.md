@@ -16,8 +16,7 @@ Through this EDA, I aim to uncover key findings that can contribute to a better 
 ## 🧰 Tools & Libraries
 - **Python** (Jupyter Notebook)  
 - **pandas**, **numpy** for data wrangling  
-- **matplotlib**, **seaborn**, **plotly** for visualization  
-- **statsmodels / scipy** for basic statistical summaries  
+- **matplotlib**, **seaborn**, **plotly** for visualization   
 - Git & GitHub for version control and project hosting
 
 ---
