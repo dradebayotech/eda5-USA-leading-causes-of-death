@@ -75,7 +75,7 @@ This analysis was guided by 12 questions designed to uncover timely and actionab
 ## 📁 Files in This Repository
 - `EDA_Project_5_US_Mortality_Trends.ipynb` — Jupyter notebook with full data pipeline, EDA code, tables, and figures  
 - `images/` — plot PNGs used in the README and analysis  
-- `data/` — The raw NCHS data are included here. The link is also available below (See Dataset Access & Sources).  
+- `data/` — The raw NCHS data are included here. The link is also available below (See Dataset Access & Sources).
 - `README.md` — this file
 
 ---
