@@ -22,7 +22,7 @@ Through this EDA, I aim to uncover key findings that can contribute to a better 
 ---
 
 ## ❓ Some of the Key Questions Explored
-This analysis was guided by 12 questions designed to uncover timely and actionable patterns in U.S. mortality. Here are seven of those:
+> **This analysis was guided by 12 questions designed to uncover timely and actionable patterns in U.S. mortality. Here are seven of those:**
 
 1. **Which cause of death has the highest total number of deaths across all years and states?****  
 2. **Which cause of death has the lowest total number of deaths across all years and states?**  
