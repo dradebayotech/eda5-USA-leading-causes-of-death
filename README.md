@@ -81,7 +81,7 @@ Through this EDA, I aim to uncover key findings that can contribute to a better 
 ---
 
 ## 📂 Dataset Access & Sources
-Primary data sources and references used in this analysis (add or replace with the exact source links you used in the notebook):  
+> Primary data sources and references used in this analysis (add or replace with the exact source links you used in the notebook):  
 - NCHS — Leading Causes of Death datasets (publicly available via  [DATA.GOV](https://catalog.data.gov/dataset/nchs-leading-causes-of-death-united-states))
 
 ---
