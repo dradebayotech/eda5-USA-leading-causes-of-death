@@ -95,7 +95,7 @@ Through this EDA, I aim to uncover key findings that can contribute to a better 
 ---
 
 ## ✍️ Author
-**Dr. Adebayo Fashina**
+**Adebayo Fashina**
 📍 Toronto, Canada | [GitHub](https://github.com/dradebayotech) | [LinkedIn](https://www.linkedin.com/in/your-link-here)
 
 ---
