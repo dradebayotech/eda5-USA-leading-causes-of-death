@@ -90,7 +90,7 @@ Through this EDA, I aim to uncover key findings that can contribute to a better 
 1. **Statistical testing:** test year-to-year changes and trend breakpoints using time series tests (e.g., Mann-Kendall, segmented regression).  
 2. **Modeling:** build short-term forecasting models for top causes (e.g., ARIMA or Prophet), and consider cause-specific modeling for policy simulation.  
 3. **Geospatial analysis:** map state-level rates to identify clusters and hotspots.  
-4. visuals into a 1-page brief for public health stakeholders summarizing priority causes and states.
+4. for public health stakeholders summarizing priority causes and states.
 
 ---
 
